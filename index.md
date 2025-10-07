@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Homepage
 ---
 
+## Homepage heading 2
